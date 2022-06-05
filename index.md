@@ -18,7 +18,7 @@ I am also the Head of Quant Research and portfolio manager for [ReSolve Asset Ma
 - Inverse optimization 
 
 ## Education
-- **Ph.D. in Industrial Engineering** (expected August 2022), University of Toronto 
+- **Ph.D. in Industrial Engineering**, University of Toronto (expected August 2022)
     - Advisor: Roy H. Kwon 
     - Thesis: Integrating prediction and portfolio optimization
 

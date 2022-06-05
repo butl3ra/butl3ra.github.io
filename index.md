@@ -26,7 +26,7 @@ I am also the Head of Quant Research and portfolio manager for [ReSolve Asset Ma
 
 - **Graduate Diploma in Financial Engineering**, Schulich School of Business
 
-- **B.Sc. (Honours) Double Major in Applied Mathematics and Physics**, Memorial University 
+- **B.Sc. (Hons) Applied Mathematics and Physics**, Memorial University 
     - Advisor: Ronald Haynes
     - Thesis: Efficient optimization of the likelihood function in Gaussian process modelling
 

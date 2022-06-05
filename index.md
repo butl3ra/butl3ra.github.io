@@ -3,7 +3,7 @@ I am a PhD Candidate in the [Department of Mechanical and Industrial Engineering
 
 I am also the Head of Quant Research and portfolio manager for [ReSolve Asset Management](https://investresolve.com/) where I lead the research, development and implementation of Resolve's machine learining and portfolio optimization ecosystem. My research focuses on both the theory and application of mathematical optimization and statistical learning for solving real-world problems. I am an expert in several domains of mathematical optimization and I have over 8 years of practical experience in the development and application of optimization and machine learning principles for solving difficult problems in engineering and finance. 
 
-External links:
+**External links:**
 
  - [Google Scholar](https://scholar.google.com/citations?user=Wzs3v78AAAAJ&hl=en)
  - [Research Gate](https://www.researchgate.net/profile/Andrew-Butler-24)
@@ -61,13 +61,22 @@ Available at SSRN 2613467		2014
 GPMfit Package
 A Butler, P Ranjan, R Haynes, T Humphries, MS Toolbox, MO Toolbox
 
-You can use the [editor on GitHub](https://github.com/butl3ra/butl3ra.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Presentations
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **Integrating prediction and portfolio optimization** 
+    - 2021 Canadian Operational Research Society Annual Conference. June 2021.
+
+- **Minimizing generalization error in mean-variance optimization**
+    -  Fields institute: 4th Industrial-Academic Workshop on Optimization and Artificial Intelligence in Finance. November 2018.
+
+- **Hedge Fund Roundtable**
+    -  Master of Mathematical Finance Annual Symposium. January 2018.
+ 
+- **Efficient optimization in Gaussian process modelling**
+    -  Summer Undergraduate Research Forum, Memorial University. September 2012.
+
 
 ```markdown
 Syntax highlighted code block

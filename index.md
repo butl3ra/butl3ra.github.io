@@ -36,23 +36,17 @@ I am also the Head of Quant Research and portfolio manager for [ReSolve Asset Ma
 
 - J Jeong, P Jaggi, A Butler, S Sanner. An Exact Symbolic Approach for Benchmarking Predict-then-Optimize Solvers. In Proceedings of the 39th International Conference on Machine Learning (ICML-22). Forthcoming.
 
-- A Butler, RH Kwon. Gradient boosting for convex cone predict and optimize problems. 2022. (preprint)
-    - [PDF](https://arxiv.org/pdf/2204.06895.pdf)
+- A Butler, RH Kwon. Gradient boosting for convex cone predict and optimize problems. 2022. (preprint) [PDF](https://arxiv.org/pdf/2204.06895.pdf)
 
-- A Butler, RH Kwon. Data-driven integration of regularized mean-variance portfolios.	2021. (preprint)
-    - [PDF](https://arxiv.org/pdf/2112.07016.pdf)
+- A Butler, RH Kwon. Data-driven integration of regularized mean-variance portfolios.	2021. (preprint) [PDF](https://arxiv.org/pdf/2112.07016.pdf)
 
-- A Butler, RH Kwon. Efficient differentiable quadratic programming layers: an ADMM approach. 2021. (preprint)
-    - [PDF](https://arxiv.org/pdf/2112.07464.pdf) 
+- A Butler, RH Kwon. Efficient differentiable quadratic programming layers: an ADMM approach. 2021. (preprint) [PDF](https://arxiv.org/pdf/2112.07464.pdf) 
 
-- A Butler, RH Kwon. Covariance estimation for risk-based portfolio optimization: an integrated approach. Journal of Risk. 24 (2)	2021.
-    -[LINK](https://www.risk.net/journal-of-risk/7905781/covariance-estimation-for-risk-based-portfolio-optimization-an-integrated-approach) 
+- A Butler, RH Kwon. Covariance estimation for risk-based portfolio optimization: an integrated approach. Journal of Risk. 24 (2)	2021. [LINK](https://www.risk.net/journal-of-risk/7905781/covariance-estimation-for-risk-based-portfolio-optimization-an-integrated-approach) 
 
--  A Butler, RH Kwon. Integrating prediction in mean-variance portfolio optimization. 2020. (preprint)
-    - [PDF](https://arxiv.org/pdf/2102.09287.pdf) 
+-  A Butler, RH Kwon. Integrating prediction in mean-variance portfolio optimization. 2020. (preprint) [PDF](https://arxiv.org/pdf/2102.09287.pdf) 
 
-- A Butler, RD Haynes, TD Humphries, P Ranjan. Efficient optimization of the likelihood function in Gaussian process modelling. Computational Statistics & Data Analysis. 73, 40-52	18	2014
-    -[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0167947313004556) 
+- A Butler, RD Haynes, TD Humphries, P Ranjan. Efficient optimization of the likelihood function in Gaussian process modelling. Computational Statistics & Data Analysis. 73, 40-52	18	2014. [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0167947313004556) 
 
 
 ### Presentations

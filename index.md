@@ -13,7 +13,7 @@ I am also the Head of Quant Research and portfolio manager for [ReSolve Asset Ma
 - Convex optimization
 - Statistical learning
 - Numerical analysis
-- Differentiable optimization programming
+- Differentiable optimization layers
 - End-to-end prediction and optimization
 - Inverse optimization 
 

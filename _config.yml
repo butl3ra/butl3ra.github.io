@@ -2,3 +2,6 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: Andrew Butler
+logo: /assets/img/logo.png
+description: dboost
+show_downloads: true

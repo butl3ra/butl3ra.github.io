@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme
 title: Andrew Butler
 logo: /assets/img/logo.png
-description: Forecasts for the MSE gradient boosting and dboost prediction models.
+description: MSE gradient boosting and dboost prediction models.
 show_downloads: false

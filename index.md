@@ -46,7 +46,7 @@ I am also the Head of Quant Research and portfolio manager for [ReSolve Asset Ma
 
 -  A Butler, RH Kwon. Integrating prediction in mean-variance portfolio optimization. 2020. (preprint) [PDF](https://arxiv.org/pdf/2102.09287.pdf) 
 
-- A Butler, RD Haynes, TD Humphries, P Ranjan. Efficient optimization of the likelihood function in Gaussian process modelling. Computational Statistics & Data Analysis. 73, 40-52	18	2014. [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0167947313004556) 
+- A Butler, RD Haynes, TD Humphries, P Ranjan. Efficient optimization of the likelihood function in Gaussian process modelling. Computational Statistics & Data Analysis. 73, 40-52	18	2014. [LINK](https://www.sciencedirect.com/science/article/abs/pii/S0167947313004556) 
 
 
 ### Presentations

@@ -49,7 +49,7 @@ I am also the Head of Quant Research and portfolio manager for [ReSolve Asset Ma
 - A Butler, RD Haynes, TD Humphries, P Ranjan. Efficient optimization of the likelihood function in Gaussian process modelling. Computational Statistics & Data Analysis. 73, 40-52	18	2014. [LINK](https://www.sciencedirect.com/science/article/abs/pii/S0167947313004556) 
 
 
-### Presentations
+## Presentations
 
 - **Integrating prediction and portfolio optimization.** 
     - 2021 Canadian Operational Research Society Annual Conference. June 2021.

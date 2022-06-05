@@ -6,7 +6,7 @@ My research focuses on both the theory and application of mathematical optimizat
 **External links:**
 
  - [Google Scholar](https://scholar.google.com/citations?user=Wzs3v78AAAAJ&hl=en)
- - [Research Gate](https://www.researchgate.net/profile/Andrew-Butler-24)
+ - [ResearchGate](https://www.researchgate.net/profile/Andrew-Butler-24)
 
 
 ## Research Interests

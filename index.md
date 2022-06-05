@@ -64,3 +64,9 @@ My research focuses on both the theory and application of mathematical optimizat
     -  Summer Undergraduate Research Forum, Memorial University. September 2012.
 
 
+## Contact
+
+ad.butler@mail.utoronto.ca
+
+
+

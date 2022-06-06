@@ -7,7 +7,11 @@ My research focuses on both the theory and application of mathematical optimizat
 
  - [Google Scholar](https://scholar.google.com/citations?user=Wzs3v78AAAAJ&hl=en)
  - [ResearchGate](https://www.researchgate.net/profile/Andrew-Butler-24)
+ 
+**Contact**
+ad.butler@mail.utoronto.ca
 
+- - -
 
 ## Research Interests
 - Convex optimization
@@ -16,6 +20,8 @@ My research focuses on both the theory and application of mathematical optimizat
 - Differentiable optimization layers
 - End-to-end prediction and optimization
 - Inverse optimization 
+
+- - -
 
 ## Education
 - **Ph.D. in Industrial Engineering**, University of Toronto (expected August 2022)
@@ -31,6 +37,8 @@ My research focuses on both the theory and application of mathematical optimizat
     - Thesis: Efficient optimization of the likelihood function in Gaussian process modelling
 
 - **Chartered Financial Analyst (CFA) Charterholder**, CFA Institute
+
+- - -
 
 ## Publications
 
@@ -48,6 +56,7 @@ My research focuses on both the theory and application of mathematical optimizat
 
 - A Butler, RD Haynes, TD Humphries, P Ranjan. Efficient optimization of the likelihood function in Gaussian process modelling. Computational Statistics & Data Analysis. 73, 40-52	18	2014. [LINK](https://www.sciencedirect.com/science/article/abs/pii/S0167947313004556) 
 
+- - -
 
 ## Presentations
 
@@ -64,9 +73,7 @@ My research focuses on both the theory and application of mathematical optimizat
     -  Summer Undergraduate Research Forum, Memorial University. September 2012.
 
 
-## Contact
 
-ad.butler@mail.utoronto.ca
 
 
 

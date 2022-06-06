@@ -8,7 +8,8 @@ My research focuses on both the theory and application of mathematical optimizat
  - [Google Scholar](https://scholar.google.com/citations?user=Wzs3v78AAAAJ&hl=en)
  - [ResearchGate](https://www.researchgate.net/profile/Andrew-Butler-24)
  
-**Contact**
+**Contact:**
+
 ad.butler@mail.utoronto.ca
 
 - - -

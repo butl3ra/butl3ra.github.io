@@ -1,7 +1,7 @@
 ## About Me
 I am a PhD Candidate in the [Department of Mechanical and Industrial Engineering](https://www.mie.utoronto.ca/) at the University of Toronto under the supervision of Professor Roy Kwon. My research is at the intersection of machine learning and decision-based optimization. Specifically I study the impact that machine learning predictions have on downstream decision-making with direct applications to portfolio optimization.
 
-My research focuses on both the theory and application of mathematical optimization and statistical learning for solving real-world problems. I am an expert in several domains of mathematical optimization and I have over 10 years of practical experience in the development and application of optimization and machine learning principles for solving difficult problems in engineering and finance. 
+I am also the Head of Quant Research and portfolio manager for ReSolve Asset Management where I lead the research, development and implementation of Resolve’s machine learning and portfolio optimization ecosystem. My research focuses on both the theory and application of mathematical optimization and statistical learning for solving real-world problems. I am an expert in several domains of mathematical optimization and I have over 10 years of practical experience in the development and application of optimization and machine learning principles for solving difficult problems in engineering and finance. 
 
 **External links:**
 
